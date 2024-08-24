@@ -1,0 +1,6 @@
+numpy   # Manipulación numérica en Python
+pandas  # Datasets
+tensorflow # Librería de aprendizaje automático
+matplotlib # Librería de gráficos
+prettytable # Para imprimir datos en formato de tabla dibujada en consola
+tensorflow_decision_forests # Modelos de Árboles de Decisión
