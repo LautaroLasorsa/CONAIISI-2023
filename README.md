@@ -2,8 +2,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow" height = 50/>
+  </a>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" height = 50/>
+  
+  
+
 </p>
 
 # Índice
