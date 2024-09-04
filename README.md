@@ -24,9 +24,11 @@ Este repositorio contiene el trabajo relativo al desarrollo del paper:
 
 **Estudio comparativo de diferentes modelos de aprendizaje automático y análisis de la robustez de dichos modelos frente a fallas provocadas en los sensores en el caso de detección de incendios para ser aplicados a dispositivos de computación de borde**
 
-El contenido del mismo está disponible en el archivo [Paper.pdf](./Paper.pdf) del presente repositorio. El mismo fue [aprobado](./Certificado%20trabajos%20aprobados%20CONAIISI-12.pdf) y compartido con la comunidad en una [disertación](./Certificado%20disertante%20CONAIISI-12.pdf) transmitida en vivo por YouTube.
+El contenido del mismo está disponible en el archivo [Paper.pdf](./Paper.pdf) del presente repositorio así como en la página 191 de las [memorias](https://drive.google.com/file/d/1-fjzCv1IQ2pCu_qK5HxkV8pGp2x_znEO/view) del congreso. 
 
-Lamentablemente, a la fecha de escribir esto, el *Congreso Nacional de Ingeniería Informática / Sistemas de Información(CONAIISI) 2023* no ha publicado aún la memoría donde se recogen los trabajos aprobados y los vídeos de las presentaciones no están disponibles en YouTube.
+El mismo fue [aprobado](./Certificado%20trabajos%20aprobados%20CONAIISI-12.pdf) y compartido con la comunidad en una [disertación](./Certificado%20disertante%20CONAIISI-12.pdf) transmitida en vivo por YouTube.
+
+
 
 # Resumen
 
